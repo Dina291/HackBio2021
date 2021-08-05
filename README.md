@@ -1,6 +1,2 @@
 # HackBio2021
-print("Name: Dina Saber Mohamed")
-print("Email: b.saber99@gmail.com")
-print("language: Python")
-print("Biostack:  Genomics & Bioinformatics")
-print("Slack Username: @Dina")
+I am a member of Lander Team in the HackBio 2021 Internship program and this is my own repository.
